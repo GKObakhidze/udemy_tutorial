@@ -1,4 +1,4 @@
-import org.testng.reporters.jq.INavigatorPanel;
+import java.util.Scanner;
 
 public class while_loops {
     public static void main(String[] args) {
