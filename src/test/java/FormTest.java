@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class FormTest {
+import javax.swing.*;
+
+public class FormTest {
+    private JButton submitButton;
 }
