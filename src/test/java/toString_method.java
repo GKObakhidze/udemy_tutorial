@@ -1,7 +1,7 @@
 public class toString_method {
     public static void main(String[] args) {
 
-        Cars car = new Cars();
+        Cars1 car = new Cars1();
 
         System.out.println(car.make);
         System.out.println(car.model);
@@ -15,7 +15,7 @@ public class toString_method {
 
 
 
-class Cars {
+class Cars1 {
 
 
     String make = "ford";
